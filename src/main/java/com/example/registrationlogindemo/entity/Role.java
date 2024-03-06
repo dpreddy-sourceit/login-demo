@@ -20,7 +20,7 @@ public class Role
 		this.users = users;
 	}
     
-    public Role() {
+    public Role() { 
 		super();
 	}
     
