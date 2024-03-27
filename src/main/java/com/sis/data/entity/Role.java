@@ -1,4 +1,4 @@
-package com.example.registrationlogindemo.entity;
+package com.sis.data.entity;
 
 import javax.persistence.*;
 import lombok.AllArgsConstructor;

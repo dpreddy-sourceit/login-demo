@@ -8,11 +8,11 @@
 		<version>2.6.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.example</groupId>
-	<artifactId>registration-login-demo</artifactId>
+	<groupId>com.sis.userprofile</groupId>
+	<artifactId>com.sis.userprofile</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>registration-login-demo</name>
-	<description>Demo project for Spring Boot</description>
+	<name>SIS userprofile</name>
+	<description>sis user profile</description>
 	<properties>
 		
 		 <java.version>1.8</java.version>  
@@ -56,7 +56,13 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-security</artifactId>
 		</dependency>
+		<dependency>
+		    <groupId>com.google.guava</groupId>
+		    <artifactId>guava</artifactId>
+		    <version>19.0</version>
+		</dependency>
 	</dependencies>
+	
 
 	<build>
 		<plugins>

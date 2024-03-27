@@ -1,11 +1,7 @@
-F:\SIS_Dev_Project\Dev Tasks\login-demo\src\main\java\com\example\registrationlogindemo\repository\RoleRepository.java
-F:\SIS_Dev_Project\Dev Tasks\login-demo\src\main\java\com\example\registrationlogindemo\dto\UserDto.java
-F:\SIS_Dev_Project\Dev Tasks\login-demo\src\main\java\com\example\registrationlogindemo\repository\UserRepository.java
-F:\SIS_Dev_Project\Dev Tasks\login-demo\src\main\java\com\example\registrationlogindemo\entity\Role.java
-F:\SIS_Dev_Project\Dev Tasks\login-demo\src\main\java\com\example\registrationlogindemo\entity\User.java
-F:\SIS_Dev_Project\Dev Tasks\login-demo\src\main\java\com\example\registrationlogindemo\RegistrationLoginDemoApplication.java
-F:\SIS_Dev_Project\Dev Tasks\login-demo\src\main\java\com\example\registrationlogindemo\security\CustomUserDetailsService.java
-F:\SIS_Dev_Project\Dev Tasks\login-demo\src\main\java\com\example\registrationlogindemo\service\impl\UserServiceImpl.java
-F:\SIS_Dev_Project\Dev Tasks\login-demo\src\main\java\com\example\registrationlogindemo\config\SpringSecurity.java
-F:\SIS_Dev_Project\Dev Tasks\login-demo\src\main\java\com\example\registrationlogindemo\service\UserService.java
-F:\SIS_Dev_Project\Dev Tasks\login-demo\src\main\java\com\example\registrationlogindemo\controller\AuthController.java
+F:\sts_ws\sourceit-db-config\src\main\java\com\sis\data\RegistrationLoginDemoApplication.java
+F:\sts_ws\sourceit-db-config\src\main\java\com\sis\data\entity\ERole.java
+F:\sts_ws\sourceit-db-config\src\main\java\com\sis\data\entity\Role.java
+F:\sts_ws\sourceit-db-config\src\main\java\com\sis\data\repository\IUserRepository.java
+F:\sts_ws\sourceit-db-config\src\main\java\com\sis\data\entity\User.java
+F:\sts_ws\sourceit-db-config\src\main\java\com\sis\data\config\SISDatasourceConfig.java
+F:\sts_ws\sourceit-db-config\src\main\java\com\sis\data\repository\IRoleRepository.java
